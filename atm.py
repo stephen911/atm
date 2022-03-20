@@ -34,4 +34,5 @@ while True:
 																																								pin = str(getpass.getpass('PLEASE ENTER PIN: '))
 																																									print('******************')
 																																										print('------------------')
-																																										
+																																											if pin.isdigit():
+																																												
