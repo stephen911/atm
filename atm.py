@@ -39,4 +39,5 @@ while True:
 																																																		if pin == pins[0]:
 																																																							break
 																																																									else:
-																																																										
+																																																														count += 1
+																																																														
