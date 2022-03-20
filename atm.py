@@ -22,4 +22,5 @@ while True:
 																									break
 																									else:
 																												print('----------------')
-																												
+																														print('****************')
+																														
