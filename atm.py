@@ -21,4 +21,5 @@ while True:
 																							n = 2
 																									break
 																									else:
-																										
+																												print('----------------')
+																												
