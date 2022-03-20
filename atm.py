@@ -47,4 +47,5 @@ while True:
 																																																																																		print('-----------')
 																																																																																						print()
 
-																																																																																						
+																																																																																								if user == 'user2':
+																																																																																									
