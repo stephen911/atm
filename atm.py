@@ -102,4 +102,5 @@ while True:
 																																																																																																																																																																																																					~ Main menu
 																																																																																																																																																																																																					while True:
 																																																																																																																																																																																																							~os.system('clear')
-																																																																																																																																																																																																							
+																																																																																																																																																																																																								print('-------------------------------')
+																																																																																																																																																																																																								
