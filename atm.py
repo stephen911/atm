@@ -10,4 +10,6 @@ amounts = [1000, 2000, 3000]
 count = 0
 ~ while loop checks existance of the enterd username
 while True:
-	
+		user = input('\nENTER USER NAME: ')
+			user = user.lower()
+			
