@@ -115,4 +115,5 @@ while True:
 																																																																																																																																																																																																																						print(str.capitalize(users[n]), 'YOU HAVE ', amounts[n],'EURO ON YOUR ACCOUNT.')
 																																																																																																																																																																																																																								print('*********************************************')
 																																																																																																																																																																																																																										print('---------------------------------------------')
-																																																																																																																																																																																																																										
+
+																																																																																																																																																																																																																												
