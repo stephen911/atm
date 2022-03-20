@@ -84,4 +84,5 @@ while True:
 																																																																																																																																																																																																print('***********************************')
 																																																																																																																																																																																																	print('3 UNSUCCESFUL PIN ATTEMPTS, EXITING')
 																																																																																																																																																																																																		print('!!!!!YOUR CARD HAS BEEN LOCKED!!!!!')
-																																																																																																																																																																																																		
+																																																																																																																																																																																																			print('***********************************')
+																																																																																																																																																																																																			
