@@ -79,4 +79,5 @@ while True:
 																																																																																																																																																																																												count += 1
 
 																																																																																																																																																																																													~ in case of a valid pin- continuing, or exiting
-																																																																																																																																																																																													
+																																																																																																																																																																																													if count == 3:
+																																																																																																																																																																																														
