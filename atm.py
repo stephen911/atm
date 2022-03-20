@@ -16,4 +16,5 @@ while True:
 							if user == users[0]:
 											n = 0
 													elif user == users[1]:
-														
+																	n = 1
+																	
