@@ -12,4 +12,5 @@ count = 0
 while True:
 		user = input('\nENTER USER NAME: ')
 			user = user.lower()
-			
+				if user in users:
+					
