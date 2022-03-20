@@ -24,4 +24,6 @@ while True:
 																												print('----------------')
 																														print('****************')
 																																print('INVALID USERNAME')
-																																
+																																		print('****************')
+																																				print('----------------')
+																																				
