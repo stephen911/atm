@@ -71,4 +71,5 @@ while True:
 																																																																																																																																																																										print('-----------')
 																																																																																																																																																																														print()
 																																																																																																																																																																															else:
-																																																																																																																																																																																
+																																																																																																																																																																																		print('------------------------')
+																																																																																																																																																																																		
