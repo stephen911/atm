@@ -76,4 +76,5 @@ while True:
 																																																																																																																																																																																						print('PIN CONSISTS OF 4 DIGITS')
 																																																																																																																																																																																								print('************************')
 																																																																																																																																																																																										print('------------------------')
-																																																																																																																																																																																										
+																																																																																																																																																																																												count += 1
+																																																																																																																																																																																												
