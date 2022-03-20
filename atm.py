@@ -14,4 +14,5 @@ while True:
 			user = user.lower()
 				if user in users:
 							if user == users[0]:
-								
+											n = 0
+											
