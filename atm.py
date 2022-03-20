@@ -96,4 +96,5 @@ while True:
 																																																																																																																																																																																																					print()
 																																																																																																																																																																																																					print('--------------------------')
 																																																																																																																																																																																																					print('**************************')	
+																																																																																																																																																																																																					print(str.capitalize(users[n]), 'welcome to ATM')
 																																																																																																																																																																																																					
