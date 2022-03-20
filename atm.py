@@ -19,4 +19,5 @@ while True:
 																	n = 1
 																			else:
 																							n = 2
-																							
+																									break
+																								
