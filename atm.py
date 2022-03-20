@@ -7,3 +7,4 @@ import os
 users = ['user', 'user2', 'user3']
 pins = ['1234', '2222', '3333']
 amounts = [1000, 2000, 3000]
+count = 0
