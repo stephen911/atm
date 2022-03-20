@@ -18,4 +18,5 @@ while True:
 													elif user == users[1]:
 																	n = 1
 																			else:
-																				
+																							n = 2
+																							
