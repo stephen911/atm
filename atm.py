@@ -101,4 +101,5 @@ while True:
 																																																																																																																																																																																																					print('----------ATM SYSTEM-----------')
 																																																																																																																																																																																																					~ Main menu
 																																																																																																																																																																																																					while True:
-																																																																																																																																																																																																						
+																																																																																																																																																																																																							~os.system('clear')
+																																																																																																																																																																																																							
