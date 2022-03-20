@@ -86,4 +86,5 @@ while True:
 																																																																																																																																																																																																		print('!!!!!YOUR CARD HAS BEEN LOCKED!!!!!')
 																																																																																																																																																																																																			print('***********************************')
 																																																																																																																																																																																																				print('-----------------------------------')
-																																																																																																																																																																																																				
+																																																																																																																																																																																																					exit()
+																																																																																																																																																																																																					
