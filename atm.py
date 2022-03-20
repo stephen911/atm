@@ -82,4 +82,5 @@ while True:
 																																																																																																																																																																																													if count == 3:
 																																																																																																																																																																																															print('-----------------------------------')
 																																																																																																																																																																																																print('***********************************')
-																																																																																																																																																																																																
+																																																																																																																																																																																																	print('3 UNSUCCESFUL PIN ATTEMPTS, EXITING')
+																																																																																																																																																																																																	
