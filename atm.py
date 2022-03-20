@@ -40,4 +40,5 @@ while True:
 																																																							break
 																																																									else:
 																																																														count += 1
-																																																														
+																																																																		print('-----------')
+																																																																		
