@@ -29,4 +29,5 @@ while True:
 
 																																				~ comparing pin
 																																				while count < 3:
-																																					
+																																						print('------------------')
+																																						
