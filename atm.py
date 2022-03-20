@@ -80,4 +80,5 @@ while True:
 
 																																																																																																																																																																																													~ in case of a valid pin- continuing, or exiting
 																																																																																																																																																																																													if count == 3:
-																																																																																																																																																																																														
+																																																																																																																																																																																															print('-----------------------------------')
+																																																																																																																																																																																															
