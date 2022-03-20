@@ -99,4 +99,6 @@ while True:
 																																																																																																																																																																																																					print(str.capitalize(users[n]), 'welcome to ATM')
 																																																																																																																																																																																																					print('**************************')
 																																																																																																																																																																																																					print('----------ATM SYSTEM-----------')
-																																																																																																																																																																																																					
+																																																																																																																																																																																																					~ Main menu
+																																																																																																																																																																																																					while True:
+																																																																																																																																																																																																						
