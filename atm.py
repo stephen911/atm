@@ -93,4 +93,5 @@ while True:
 																																																																																																																																																																																																					print('LOGIN SUCCESFUL, CONTINUE')
 																																																																																																																																																																																																					print('*************************')
 																																																																																																																																																																																																					print('-------------------------')
+																																																																																																																																																																																																					print()
 																																																																																																																																																																																																					
