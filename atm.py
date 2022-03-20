@@ -27,4 +27,6 @@ while True:
 																																		print('****************')
 																																				print('----------------')
 
-																																				
+																																				~ comparing pin
+																																				while count < 3:
+																																					
