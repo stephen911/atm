@@ -13,4 +13,5 @@ while True:
 		user = input('\nENTER USER NAME: ')
 			user = user.lower()
 				if user in users:
-					
+							if user == users[0]:
+								
