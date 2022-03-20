@@ -63,4 +63,6 @@ while True:
 																																																																																																																																										if pin == pins[2]:
 																																																																																																																																															break
 																																																																																																																																																	else:
-																																																																																																																																																		
+																																																																																																																																																						count += 1
+																																																																																																																																																										print('-----------')
+																																																																																																																																																										
